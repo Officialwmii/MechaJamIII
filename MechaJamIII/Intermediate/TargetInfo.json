@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "MechaJamIII",
+			"Path": "/Users/wmii/Documents/GitHub/MechaJamIII/MechaJamIII/Source/MechaJamIII.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "MechaJamIIIEditor",
+			"Path": "/Users/wmii/Documents/GitHub/MechaJamIII/MechaJamIII/Source/MechaJamIIIEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
