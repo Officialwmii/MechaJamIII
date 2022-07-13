@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"/Users/wmii/Documents/GitHub/MechaJamIII/MechaJamIII/Source/MechaJamIII/MechaJamIII.Build.cs",
-		"/Users/wmii/Documents/GitHub/MechaJamIII/MechaJamIII/Source/MechaJamIII.Target.cs",
-		"/Users/wmii/Documents/GitHub/MechaJamIII/MechaJamIII/Source/MechaJamIIIEditor.Target.cs"
+		"D:\\Unreal Levels\\MechaJamIII\\MechaJamIII\\Source\\MechaJamIII\\MechaJamIII.Build.cs",
+		"D:\\Unreal Levels\\MechaJamIII\\MechaJamIII\\Source\\MechaJamIII.Target.cs",
+		"D:\\Unreal Levels\\MechaJamIII\\MechaJamIII\\Source\\MechaJamIIIEditor.Target.cs"
 	],
 	"EngineVersion": "5.0.3"
 }
