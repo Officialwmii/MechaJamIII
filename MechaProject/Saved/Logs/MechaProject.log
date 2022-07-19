@@ -4300,3 +4300,8 @@ BP_Gauss_Rifle_C.BndEvt__BP_Rifle_SphereCollision_K2Node_ComponentBoundEvent_0_C
 [2022.07.19-22.10.42:587][  6]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/FirstPerson/Blueprints/BP_Gauss_Rifle.
 [2022.07.19-22.10.42:593][  6]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.
 [2022.07.19-22.10.42:621][  8]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/AI/Final_AI/AIChar_Master2.
+[2022.07.19-22.13.51:252][653]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/Final_AI/AIChar_Master2" FILE="../../../../../Unreal Levels/MechaJamIII/MechaProject/Content/AI/Final_AI/AIChar_Master2.uasset" SILENT=true
+[2022.07.19-22.13.51:279][653]LogSavePackage: Moving output files for package: /Game/AI/Final_AI/AIChar_Master2
+[2022.07.19-22.13.51:280][653]LogSavePackage: Moving '../../../../../Unreal Levels/MechaJamIII/MechaProject/Saved/AIChar_Master205836068454504D3DE27B0ADF85A2AE2.tmp' to '../../../../../Unreal Levels/MechaJamIII/MechaProject/Content/AI/Final_AI/AIChar_Master2.uasset'
+[2022.07.19-22.13.51:301][653]AssetCheck: New page: Asset Save: AIChar_Master2
+[2022.07.19-22.13.51:301][653]LogContentValidation: Display: Validating Blueprint /Game/AI/Final_AI/AIChar_Master2.AIChar_Master2
